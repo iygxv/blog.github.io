@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,N as t}from"./chunks/framework.7288ae32.js";const m=JSON.parse('{"title":"数组","description":"","frontmatter":{},"headers":[],"relativePath":"article/leetcode/base/1-数组.md"}'),l={name:"article/leetcode/base/1-数组.md"},o=t("",7),n=[o];function s(c,i,h,_,E,p){return a(),r("div",null,n)}const f=e(l,[["render",s]]);export{m as __pageData,f as default};

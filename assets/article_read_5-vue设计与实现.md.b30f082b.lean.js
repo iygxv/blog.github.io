@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,N as l}from"./chunks/framework.5b6ea098.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"article/read/5-vue设计与实现.md"}'),p={name:"article/read/5-vue设计与实现.md"},o=l("",30),e=[o];function t(c,r,y,F,D,i){return n(),a("div",null,e)}const f=s(p,[["render",t]]);export{C as __pageData,f as default};
